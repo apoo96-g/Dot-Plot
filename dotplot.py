@@ -16,7 +16,7 @@ for chr_name in chromosomes:
     combined_df = None
     
     for genome in genome_names:
-        # Construct the file path
+        # Construct the file path for the blast output filtered for 2 columns with marker start and the subject start. The headers will be named headers (Markers and <Genome Name>). File to be given chromosome wise for each genome to be compared.
         file_path = f'<file_path>/{genome}/{genome}_chr{chr_name}_t2t_plot.txt'
          
         # Check if the file exists before reading
