@@ -43,8 +43,10 @@ The script **Dot_plot_v2.ipynb** performs all the aforementioned steps in a stre
 **Arabidopsis_thaliana_markers.zip**: Contains chromosome-wise markers from _Arabidopsis thaliana_, each 2 kb in size and spaced 100 kb apart.
 
 
-#DATA AVAILABILITY OF KGP GENOME ASSEMBLIES
-The link for genome assemblies of both versions of KIn1 are given below.
+## DATA AVAILABILITY OF KGP GENOME ASSEMBLIES
+The links for genome assemblies of both versions of KIn1 are given below.
+
 **Link for KIn1.v2:** G, Apoorva (2025). Karnataka Genome Assembly: Version 2. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30092122.v1
+
 
 **Link for KIn1.v1:** G, Apoorva (2025). KGP v1: KIn1.v1. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30091627.v1
